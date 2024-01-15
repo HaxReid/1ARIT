@@ -1,0 +1,5 @@
+Le k de mon image à décrypter est: k = 93
+
+PS: l'image est très lourd donc c'est normal si le tkinter ne répond pas un certain temps
+et ne tenez pas compte de la tête de l'image en sortie, je sais que c'est normal, mais elle est 
+magnifique de base 
